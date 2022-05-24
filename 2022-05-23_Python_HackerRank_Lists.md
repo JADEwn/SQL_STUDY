@@ -4,9 +4,12 @@
 ![image](https://user-images.githubusercontent.com/99947811/169935418-1051ad32-ee5c-4007-9414-d8a512e53ad1.png)
 Link(https://www.hackerrank.com/challenges/python-lists/problem?isFullScreen=true)
 
+
+
 ## Solution
-*** cmd = input().split() --> 값을 입력받아 만들어진 '문자열 리스트'
-*** e.g. 입력값이 append 3 인 경우 --> cmd[0] = 'append', cmd[1] = '3'
+
+##### cmd = input().split() --> 값을 입력받아 만들어진 '문자열 리스트'
+##### e.g. 입력값이 append 3 인 경우 --> cmd[0] = 'append', cmd[1] = '3'
 
     ip = int(input())  #input
     op = []            #output
@@ -28,6 +31,8 @@ Link(https://www.hackerrank.com/challenges/python-lists/problem?isFullScreen=tru
             op.reverse()
             
             
+
+
 # 오답    
     if __name__ == '__main__':
         N = int(input())
