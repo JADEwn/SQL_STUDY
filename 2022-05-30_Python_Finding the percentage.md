@@ -18,7 +18,7 @@ Link(https://www.hackerrank.com/challenges/finding-the-percentage/problem?isFull
         outputScore = student_marks[query_name]
         print("{:.2f}".format(sum(outputScore)/ len(outputScore)))
 
-### name, *line = input().split()
+### name, *line = input().split() : (*)를 사용하여 리스트로 묶어 출력 
 ![image](https://user-images.githubusercontent.com/99947811/170925474-a088918a-aa94-42b9-95ad-b8a2a84988fa.png)
 
      Output --> Malika ['52', '56', '60']
