@@ -1,4 +1,4 @@
-#HackerRank_Python_Lists
+# HackerRank_Python_Lists
 
 ## Problem
 ![image](https://user-images.githubusercontent.com/99947811/169935418-1051ad32-ee5c-4007-9414-d8a512e53ad1.png)
