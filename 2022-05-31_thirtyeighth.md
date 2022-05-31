@@ -1,12 +1,10 @@
 # SQL_Leetcode_**183. Customers Who Never Order**
 
-## [Problem]
+## Problem
 
+![image](https://user-images.githubusercontent.com/99947811/171129486-2360391d-edff-4928-9f1b-bc5c7a4cd30a.png)
 Link (https://leetcode.com/problems/customers-who-never-order/)
 
----
-
-![Untitled](%E1%84%8E%E1%85%A2%E1%84%8C%E1%85%A2%E1%84%89%E1%85%A5%E1%86%AB(5%2030)%209575fcc89f2d4b93b2c13e05fb2343f7/Untitled.png)
 
 ## Solution
 
@@ -23,8 +21,8 @@ WHERE orders.id is NULL
 ## Result
 
 ---
+![image](https://user-images.githubusercontent.com/99947811/171129722-caefe34c-a2fc-44a9-a5f1-0fdcdd5efb39.png)
 
-![Untitled](%E1%84%8E%E1%85%A2%E1%84%8C%E1%85%A2%E1%84%89%E1%85%A5%E1%86%AB(5%2030)%209575fcc89f2d4b93b2c13e05fb2343f7/Untitled%201.png)
 
 ## 다른 사람 풀이
 
