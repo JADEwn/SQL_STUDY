@@ -1,5 +1,3 @@
-# 채재선(5/30)
-
 # SQL_Leetcode_**183. Customers Who Never Order**
 
 ## [Problem]
