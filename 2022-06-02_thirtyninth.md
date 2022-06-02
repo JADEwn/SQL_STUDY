@@ -8,11 +8,10 @@ Link(https://www.hackerrank.com/challenges/contest-leaderboard/problem?isFullScr
 ## Solution
   <aside>
   * GROUP BY 를 활용해서 임시 테이블 만들기
-   --> 해커id 별 > 챌린지 별 > 최고 점수
-   --> select hacker_id, max(score) from submissions
+    --> 해커id 별 > 챌린지 별 > 최고 점수
+    --> select hacker_id, max(score) from submissions
         group by hacker_id, challenge)id
-  - 토탈점수가 같은 사람이 있으면, 아이디를 오름차순 정렬
-  - 토탈점수(즉, SUM(각 챌린지별 최고점수) = 0 인 사람들은 제외시키기
+  * 토탈점수(즉, SUM(각 챌린지별 최고점수) = 0 인 사람들은 제외시키기
   </aside>
 
 
